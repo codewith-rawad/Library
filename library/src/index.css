@@ -1,0 +1,79 @@
+h2{
+color:yellow;
+background-color: brown;
+height: 200px;
+width: 100px;
+
+}
+.messi{
+    top: 300px;
+    position: relative;
+    left: 250px;
+background-color: burlywood;
+width: 1000px;
+height: auto;
+display: flex;
+
+flex-wrap: wrap;
+gap: 30px;
+justify-content: center;
+box-shadow: 10px 10px 20px black ;
+border-radius: 20px;
+
+}
+.graf{
+text-align: center;
+color:white;
+position: relative;
+
+margin-top: 20px;
+background-color: black;
+padding-top: 7px ;
+padding-bottom: 7px;
+border-radius: 10px;
+box-shadow: 5px 5px 5px  1px yellow;
+
+
+}
+img{
+width: 200px;
+height: 200px;
+border-radius: 30px;
+margin-top: 20px;
+box-shadow: 10px 10px 10px black ;
+
+}
+h1{
+    position: relative;
+    left: 200px;
+
+}
+a{
+position: relative;
+left: 200px;
+background-color: aqua;
+display: block;
+width: 50px;
+text-align: center;
+cursor: pointer;
+text-decoration: none;
+border-radius: 10px;
+
+
+
+}
+@keyframes move{
+from{
+    left:200px
+}
+to{
+left:1000px;
+
+}
+}
+.move{
+
+animation: move 2s forwards;
+
+
+}
