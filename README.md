@@ -2,7 +2,7 @@
 
 🚀 **A beautifully designed, fully responsive frontend for the Library Management System, built with React, TailwindCSS, and Axios.**  
 
-![Library UI](./assets/images/library-ui.png)  
+![Library UI](./assets/images/book.png)  
 
 ---
 
